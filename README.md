@@ -1,6 +1,6 @@
-# Paint Application Using C++
+# Paint Me
 
-I created this project while studying the course Computer Graphics as part of Bachelor's degree in Computer Engineering.
+A simple application developed as a Computer Graphics course project mimicing the behavior of Ms-Paint.
 
 The demo covers some basic operations like drawing lines, circles, filling with different colors and erasing.
 
